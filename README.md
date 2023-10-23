@@ -105,7 +105,8 @@ Ce fichier `readme.md` présente un compte rendu du TP 1 - Maîtrise de Git.
 
 
 ## Conclusion
-Ce résumé couvre les étapes essentielles pour travailler avec Git, gérer les branches et utiliser GitFlow pour la gestion des versions et des fonctionnalités. Vous pouvez personnaliser davantage cette documentation en fonction de votre expérience spécifique et des besoins de votre projet.
+Git est un outil puissant pour la gestion de version, la collaboration et le suivi des modifications apportées à un projet. 
+Ce compte rendu couvre les étapes essentielles pour travailler avec Git, gérer les branches et utiliser GitFlow pour la gestion des versions et des fonctionnalités. 
 
 
 
