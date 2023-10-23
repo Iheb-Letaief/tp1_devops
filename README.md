@@ -23,7 +23,7 @@ Ce fichier `readme.md` présente un compte rendu du TP sur la gestion de version
   ```
   
 ## Partie 2: Clonage d'un Projet Existant
-  ### 1. Cloner un projet Git distant en utilisant son URL SSH
+  ### 1. Cloner un projet Git distant en utilisant mon URL SSH
   ```shell
   git clone git@github.com:Iheb-Letaief/tp1_devops.git
   ```
