@@ -1,6 +1,6 @@
 # Compte Rendu TP 1 - Maîtrise de Git
 
-Ce fichier `readme.md` présente un compte rendu du TP sur la gestion de version avec Git.
+Ce fichier `readme.md` présente un compte rendu du TP 1 - Maîtrise de Git.
 
 ## Objectifs
 - Se familiariser avec Git, un système de gestion de version décentralisé largement utilisé.
